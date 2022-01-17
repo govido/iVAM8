@@ -14,6 +14,7 @@ Parts used:
 - 2x Voron Stealthburner
 - 2x E3D V6
 - 1x BLtouch
+- T8x2 Leadscrews
 - 12864 mini from Fysetc
 - ...
 - Lots of M3 and M4 screws and nuts
