@@ -5,18 +5,18 @@ IDEXVoronAnetMetal 8 -> iVAM8
 ![iVAM8_alpha_bottom](https://user-images.githubusercontent.com/12106056/149683966-43a208a4-1b54-4fae-a97c-c8e3aeb3b9cf.png)
 
 Parts used:
-AM8 frame with blind joints
-Anet A6 printer parts
-BTT GTR + M5 extsension board
-24V power supply
-Squashballs as dampening feet
-2x NEMA14 Voron CW2 extruders (!beta right now)
-2x Voron Stealthburner
-2x E3D V6
-1x BLtouch
-12864 mini from Fysetc
-...
-Lots of M3 and M4 screws and nuts
+- AM8 frame with blind joints
+- Anet A6 printer parts
+- BTT GTR + M5 extension board
+- 24V 360W power supply
+- Squashballs as dampening feet
+- 2x NEMA14 Voron CW2 extruders (!beta right now)
+- 2x Voron Stealthburner
+- 2x E3D V6
+- 1x BLtouch
+- 12864 mini from Fysetc
+- ...
+- Lots of M3 and M4 screws and nuts
 
 Features:
 - IDEX system
