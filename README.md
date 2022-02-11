@@ -26,3 +26,4 @@ Features:
 - Vertical Y-Axis
 - Electronics under the printer, making the top ready to be enclosed
 - Powered by Klipper
+- All parts are designed to print without supports
