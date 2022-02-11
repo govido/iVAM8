@@ -1,8 +1,8 @@
 # iVAM8
 Custom mod with Anet A6/A8 parts, IDEX System and Voron Stealthburner Extruder 
 IDEXVoronAnetMetal 8 -> iVAM8
-!![image](https://user-images.githubusercontent.com/12106056/153624562-389ce347-3a8e-45ea-ad1d-cfb16a64229d.png)
-![iVAM8_alpha_bottom](https://user-images.githubusercontent.com/12106056/149683966-43a208a4-1b54-4fae-a97c-c8e3aeb3b9cf.png)
+![image](https://user-images.githubusercontent.com/12106056/153624854-1cfae78a-da43-4545-bddc-9d690383cb93.png)
+![image](https://user-images.githubusercontent.com/12106056/153624939-ccbfbc83-a419-481e-8087-cd343a0fabb7.png)
 
 Parts used:
 - AM8 frame with blind joints
